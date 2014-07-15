@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/gifs/error.gif</file>
+        <file>resources/gifs/recive.gif</file>
+        <file>resources/gifs/send.gif</file>
+        <file>resources/gifs/wait.gif</file>
+        <file>resources/calendar.png</file>
+        <file>resources/arrow_left.png</file>
+        <file>resources/arrow_right.png</file>
+    </qresource>
+</RCC>
